@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "version": "1.0.0",
+  "name": "my-extension",
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": []
+}
