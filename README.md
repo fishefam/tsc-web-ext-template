@@ -67,7 +67,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 For support, please open an issue in the GitHub repository.
-
----
-
-Feel free to modify and expand upon this template based on the specific features and requirements of your project. If you need to include specific code examples or more detailed instructions, those can be added in the appropriate sections.
