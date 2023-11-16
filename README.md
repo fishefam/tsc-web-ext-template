@@ -19,8 +19,8 @@ This template is designed for building web extensions using TypeScript and Web-E
 
 ### Installation
 
-1. Clone the repository: `git clone [repository-url]`
-2. Navigate to the project directory: `cd [project-name]`
+1. Clone the repository: `git clone https://github.com/fishefam/tsc-web-ext-template.git`
+2. Navigate to the project directory: `cd tsc-web-ext-template`
 3. Install dependencies: `npm install`
 
 ## Usage
